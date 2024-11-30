@@ -5,19 +5,19 @@ const chalk = require('chalk')
 const yargs = require('yargs/yargs')
 
 global.gr = 'https://www.instagram.com/daffz_05?igsh=MWY2YTJpMGF1MHhsNA=='
-global.ig = '@daffz_05' // ubah aja
-global.email = 'daffzofficial@gmail.com' //serah
+global.ig = '@VikalzDev' // ubah aja
+global.email = 'haikaltiktokwewonk@gmail.com' //serah
 global.region = 'indonesia' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'DaffzOfficial' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'HaikalDev' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['6285601059864'] // ubah aja pake nomor lu
+global.owner = ['6283111486366'] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
 global.keyopenai = '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'
 //====================BY Hw Mods=============================//
-global.botname = 'Admin Cicago' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = 'DaffzOfficial' // ubah aja ini nama sticker
-global.author = 'Daffz' // ubah aja ini nama sticker
+global.botname = 'IkalzBot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = 'HaikalDev' // ubah aja ini nama sticker
+global.author = 'HaikalDev' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'haikal' //Gausah Juga
 global.sp = '⭔' // Gausah Juga
